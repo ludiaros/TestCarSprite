@@ -48,3 +48,6 @@ Temporary Items
 
 bin
 obj
+*.cbp
+*.layout
+*.depend
